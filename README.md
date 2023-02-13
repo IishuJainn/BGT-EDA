@@ -1,3 +1,6 @@
+![bgt2](https://user-images.githubusercontent.com/102272183/218476343-ef03c1bb-afd8-4ba0-9356-c5a8ea7e1f35.png)
+
+
 # Border-Gavaskar Trophy Results Analysis
 This repository contains analysis of Border-Gavaskar Trophy results using python and its libraries.
 
